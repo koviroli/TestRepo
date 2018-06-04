@@ -1,6 +1,9 @@
 void func(int* ptr)
 {
 	std::cout << "func(int*)" << std::endl;
+	int a = 5;
+	int c = 55;
+	int k = a+c;
 }
 
 void funcNew(int* ptr, int length)
