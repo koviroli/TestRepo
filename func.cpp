@@ -24,4 +24,5 @@ void funcNew(int* ptr, int length)
 void anotherFunc(void)
 {
 	int a = 5;
+	int k = 12;
 }
