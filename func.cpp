@@ -7,6 +7,11 @@ void func(int* ptr)
 	int d = k+a;
 }
 
+void func2(std::string* sptr)
+{
+	
+}
+
 void funcNew(int* ptr, int length)
 {
 	ptr[0x00] = 0xA;
