@@ -17,5 +17,5 @@ void funcNew(int* ptr, int length)
 
 void anotherFunc(void)
 {
-	int a;
+	int a = 5;
 }
