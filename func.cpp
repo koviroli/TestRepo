@@ -14,3 +14,8 @@ void funcNew(int* ptr, int length)
 		std::cout << "low lenghth" << std::endl;
 	}
 }
+
+void anotherFunc(void)
+{
+	int a;
+}
