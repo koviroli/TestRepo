@@ -8,3 +8,10 @@ void fn()
 int c = 5+5;
 std::cout << c;
 }
+
+
+void fn_v2()
+{
+int c2 = 5+56;
+std::cout << c2;
+}
