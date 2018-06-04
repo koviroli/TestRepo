@@ -4,6 +4,12 @@ void func(int* ptr)
 	int a = 5;
 	int c = 55;
 	int k = a+c;
+	int d = k+a;
+}
+
+void func2(std::string* sptr)
+{
+	
 }
 
 void funcNew(int* ptr, int length)
