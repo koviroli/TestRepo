@@ -31,3 +31,8 @@ void anotherFunc(void)
 	int k = 12;
 	int ij = 0;
 }
+
+int getIntDefault()
+{
+	return int(5);
+}
