@@ -32,3 +32,5 @@ void func10(){}
 void func11(){}
 
 void funcToFeaturev2(){}
+
+void funcToFv2(){}
