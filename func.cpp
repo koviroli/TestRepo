@@ -15,3 +15,6 @@ void func3()
 
 void func4()
 {}
+
+void func6()
+{}
