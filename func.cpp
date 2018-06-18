@@ -26,3 +26,5 @@ void func8()
 {}
 
 void func9(){}
+
+void func10(){}
