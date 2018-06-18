@@ -21,3 +21,6 @@ void func6()
 
 void func7()
 {}
+
+void func8()
+{}
