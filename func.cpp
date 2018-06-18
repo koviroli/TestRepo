@@ -18,3 +18,6 @@ void func4()
 
 void func6()
 {}
+
+void func7()
+{}
