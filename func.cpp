@@ -24,3 +24,5 @@ void func7()
 
 void func8()
 {}
+
+void func9(){}
