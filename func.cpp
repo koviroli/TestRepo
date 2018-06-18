@@ -9,3 +9,7 @@ void func(int* ptr)
 
 void func2()
 {}
+
+void func3()
+{}
+
