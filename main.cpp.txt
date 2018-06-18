@@ -2,3 +2,8 @@ void main()
 {
 	std::cout << "Hello";
 }
+
+void startup()
+{
+std::cout << "StartUp!";
+}
