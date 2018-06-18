@@ -15,5 +15,3 @@ void func3()
 
 void func4()
 {}
-
-int finc5Int(){return 5;}
