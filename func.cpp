@@ -6,3 +6,6 @@ void func(int* ptr)
 	int k = a+c;
 	int d = k+a;
 }
+
+void func2()
+{}
