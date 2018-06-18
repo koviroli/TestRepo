@@ -6,33 +6,3 @@ void func(int* ptr)
 	int k = a+c;
 	int d = k+a;
 }
-
-void func2(std::string* sptr)
-{
-	
-}
-
-void funcNew(int* ptr, int length)
-{
-	ptr[0x00] = 0xA;
-	if(length < 5)
-	{
-		std::cout << "low lenghth" << std::endl;
-	}
-	if(length > 128)
-	{
-		std::cout << "too large" << std::endl;
-	}
-}
-
-void anotherFunc(void)
-{
-	int a = 5;
-	int k = 12;
-	int ij = 0;
-}
-
-int getIntDefault()
-{
-	return int(5);
-}
