@@ -36,3 +36,5 @@ void funcToFeaturev2(){}
 void funcToFv2(){}
 
 void functoMain(){}
+
+void funcToFv2(){}
